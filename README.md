@@ -22,9 +22,9 @@ This project is a Python implementation of a **Tic Tac Toe game**, featuring bot
 ## How to Play
 - The board is represented as a 3x3 grid of numbers:
 
- | 0 | 1 | 2 |
- | 3 | 4 | 5 |
- | 6 | 7 | 8 |
+ ```| 0 | 1 | 2 |```
+ ```| 3 | 4 | 5 |```
+ ```| 6 | 7 | 8 |```
 
 
 - When prompted, enter the number corresponding to the square where you want to make your move.
@@ -36,15 +36,15 @@ Play turns until there's a winner or the game ends in a tie.
 
 
 Example Output:
-| 0 | 1 | 2 |
-| 3 | 4 | 5 |
-| 6 | 7 | 8 |
+``` | 0 | 1 | 2 |```
+ ```| 3 | 4 | 5 |```
+ ```| 6 | 7 | 8 |```
 
 X's turn. Input move (0-8): 4
 X makes a move to square 4
-|   |   |   |
-|   | X |   |
-|   |   |   |
+``` |  |  |  |```
+ ```|  | x |  |```
+ ```|  |  |  |```
 
 
 ## Future Enhancements
