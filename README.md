@@ -21,10 +21,11 @@ This project is a Python implementation of a **Tic Tac Toe game**, featuring bot
 2. Ensure you have Python 3.x installed.
 ## How to Play
 - The board is represented as a 3x3 grid of numbers:
-- Copy code
-| 0 | 1 | 2 |
-| 3 | 4 | 5 |
-| 6 | 7 | 8 |
+
+```| 0 | 1 | 2 |
+   | 3 | 4 | 5 |
+   | 6 | 7 | 8 |```
+
 - When prompted, enter the number corresponding to the square where you want to make your move.
 
   ## Example Gameplay
